@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.4331c200.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.f51c45d1.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.f51c45d1.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.44b02b12.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.44b02b12.js.map",
+    "static/css/2.68a81a89.chunk.css": "/my-portfolio/static/css/2.68a81a89.chunk.css",
+    "static/js/2.093ee680.chunk.js": "/my-portfolio/static/js/2.093ee680.chunk.js",
+    "static/js/2.093ee680.chunk.js.map": "/my-portfolio/static/js/2.093ee680.chunk.js.map",
+    "static/js/3.ee11d966.chunk.js": "/my-portfolio/static/js/3.ee11d966.chunk.js",
+    "static/js/3.ee11d966.chunk.js.map": "/my-portfolio/static/js/3.ee11d966.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.108ff01f4bc09ac30d659b4279aabf7d.js": "/my-portfolio/precache-manifest.108ff01f4bc09ac30d659b4279aabf7d.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/2.68a81a89.chunk.css.map": "/my-portfolio/static/css/2.68a81a89.chunk.css.map",
+    "static/css/main.4331c200.chunk.css.map": "/my-portfolio/static/css/main.4331c200.chunk.css.map",
+    "static/js/2.093ee680.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.093ee680.chunk.js.LICENSE.txt",
+    "static/media/BeHelp.jpeg": "/my-portfolio/static/media/BeHelp.f63ada20.jpeg",
+    "static/media/bootstrap.svg": "/my-portfolio/static/media/bootstrap.71e42b5a.svg",
+    "static/media/css-3.svg": "/my-portfolio/static/media/css-3.09e4ec27.svg",
+    "static/media/git.svg": "/my-portfolio/static/media/git.1190a19c.svg",
+    "static/media/html5.svg": "/my-portfolio/static/media/html5.7dffd9f3.svg",
+    "static/media/loading.svg": "/my-portfolio/static/media/loading.b2b629d0.svg",
+    "static/media/myphoto.JPEG": "/my-portfolio/static/media/myphoto.ca3520d8.JPEG",
+    "static/media/nodejs.svg": "/my-portfolio/static/media/nodejs.312699aa.svg",
+    "static/media/react-1.svg": "/my-portfolio/static/media/react-1.876a8325.svg",
+    "static/media/sass.svg": "/my-portfolio/static/media/sass.470548b4.svg",
+    "static/media/vuejs.svg": "/my-portfolio/static/media/vuejs.22efb7c2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44b02b12.js",
+    "static/css/2.68a81a89.chunk.css",
+    "static/js/2.093ee680.chunk.js",
+    "static/css/main.4331c200.chunk.css",
+    "static/js/main.f51c45d1.chunk.js"
+  ]
+}
